@@ -23,19 +23,28 @@ STEP 6: Use zscore of to remove outliers
 # Coding and Output
 
 ![image](https://github.com/user-attachments/assets/8d06ed39-3692-45c9-a892-ed3cd792562d)
+
 ![image](https://github.com/user-attachments/assets/476aacd8-9640-42e6-920b-b38a1754a042)
+
 ![image](https://github.com/user-attachments/assets/8fa44e25-e855-4519-b8e9-689fa9715598)
+
 ![image](https://github.com/user-attachments/assets/6c261cda-15d8-403b-8ef4-684911c345f1)
+
 ![image](https://github.com/user-attachments/assets/81eb88e6-addc-461a-b2e3-dab2a11c7793)
+
 ![image](https://github.com/user-attachments/assets/925e2368-a945-4b2e-b0a0-b90bb75cd642)
+
 ![image](https://github.com/user-attachments/assets/df130686-62fc-48ed-b345-f0cfa3499190)
+
 ![image](https://github.com/user-attachments/assets/7e9d96d2-ec2c-4198-b2bc-379fd4831c5e)
+
 ![image](https://github.com/user-attachments/assets/8054afae-3ebb-4a73-a514-d6a68bc64d57)
+
 ![image](https://github.com/user-attachments/assets/f46aa070-a4b5-48bc-9381-126a1d22c93c)
+
 ![image](https://github.com/user-attachments/assets/e90adba9-2cc1-4546-b43b-e2404e9cef54)
 
 
-```
             
 # Result:
 
